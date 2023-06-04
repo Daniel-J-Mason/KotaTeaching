@@ -1,4 +1,4 @@
-package com.allthing;
+package com.allthing.lessonone;
 
 public class App {
     //psvm -> public static void main(String[] args){}
