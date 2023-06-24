@@ -28,6 +28,7 @@ public class PassingGrades {
 //                break;
 //        }
         
+        
         // Enhanced switch-case
         switch (grade) {
             case 'a', 'A' -> System.out.println("You dont need to take the final, you have aced my class");
